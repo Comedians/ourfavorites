@@ -1,1 +1,2 @@
 another changed file
+now something new
